@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "assets": "^3.0.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cn-region-picker": "^1.1.6",
     "vconsole": "^3.3.0",
     "vee-validate": "^2.0.0-rc.25",
